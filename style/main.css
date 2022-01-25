@@ -89,8 +89,8 @@ body {
 }
 .wrapper {
     min-height: 100%;
-    /*overflow: hidden;*/
-    max-width: 1440px;
+    overflow: hidden;
+    width: 1440px;
     margin: 0 auto;
     background: #fdfdfe;
     color: var(--darkblue-color);
