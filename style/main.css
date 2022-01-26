@@ -245,6 +245,7 @@ a{
     width: 1376px;
     padding: 56px 0;
     justify-content: center;
+    align-items: center;
     border-radius: 10px;
     margin-bottom: 192px;
 }
