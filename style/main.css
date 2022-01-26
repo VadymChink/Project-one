@@ -247,7 +247,7 @@ a{
     justify-content: center;
     align-items: center;
     border-radius: 10px;
-    margin-bottom: 192px;
+    margin: 0 auto 192px;
 }
 .product_teams_txt{
     width: 550px;
